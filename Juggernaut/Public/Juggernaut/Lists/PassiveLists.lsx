@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="206"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/> a list of passives separated with a comma
+                    <attribute id="UUID" type="guid" value="8e9ea049-7033-4ebb-9f37-7003b6a74b3c"/> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
+                </node>
+				<node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/> You can make more than 1 list. the same passive can be in different lists
+                    <attribute id="UUID" type="guid" value="82e6a4a4-2f48-4c41-9af1-3f1de1e1b701"/> make a new UUID for each passive list
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
