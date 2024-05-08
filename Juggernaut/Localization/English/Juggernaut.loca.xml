@@ -11,8 +11,8 @@
 	<content contentuid="h93f686bag5179g4cd2g8736gf248b204fa7e" version="1">Unmoveable Stance</content>
 	<content contentuid="h274b08edgc1adg435cg8bf7g66becc25ed28" version="1">As an action, you can enter a defensive stance, in which only the most powerful forces can move. You gain advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws. This lasts until the start of your next turn.</content>
 	<content contentuid="hd863bfa2g5526g4c04gb618gaebc51af2b26" version="1">You have gained Advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws until your next turn.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h5f8062d5gd5b7g4380gb575g707575e00a0d" version="1">Brute Force</content>
+	<content contentuid="hc2df5a27g9dfdg4fefgb255g498f402a775c" version="1">Your methods are simple; hit that poor unfortunate as hard as you can. Add your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier to your Attack Rolls when not wielding a Finesse Weapon.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
