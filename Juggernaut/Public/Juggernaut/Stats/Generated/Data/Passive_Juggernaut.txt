@@ -33,5 +33,5 @@ data "DescriptionParams" "DealDamage(1d8+StrengthModifier+UnarmedMeleeAbilityMod
 data "Icon" "PassiveFeature_ShieldMaster_PassiveBonuses"
 data "Properties" "IsHidden"
 data "BoostContext" "OnEquip;OnCreate;OnUnequip"
-data "BoostConditions" "HasShieldEquipped(context.Source) and HasStatus('SHIELD_BOND') and not HasWeaponInMainHand()"
+data "BoostConditions" "HasShieldEquipped(context.Source) and not HasWeaponInMainHand()"
 data "Boosts" "AttackSpellOverride(Target_ShieldSmash, Target_UnarmedAttack)"
