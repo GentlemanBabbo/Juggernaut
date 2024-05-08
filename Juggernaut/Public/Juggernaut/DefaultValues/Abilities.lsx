@@ -8,8 +8,8 @@
                     <attribute id="Add" type="LSString" value="Strength;Constitution"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
-                    <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
-                    <attribute id="UUID" type="guid" value="13c5c89f-478a-4321-8935-1b1dd0e6238f"/>
+                    <attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/>
+                    <attribute id="UUID" type="guid" value="ca29553b-0d39-4855-b2cf-2cda3b2b6f67"/>
                 </node>
             </children>
         </node>
