@@ -5,10 +5,10 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Intimidation;History;Insight;Medicine;Intimidation;Perception;Persuasion"/>
+                    <attribute id="Add" type="LSString" value="Intimidation;Insight"/>
                     <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
-                    <attribute id="UUID" type="guid" value="35c39611-5e0a-49f0-99b1-13c817c5d50b"/>
+                    <attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/>
+                    <attribute id="UUID" type="guid" value="9fe68afc-bbe3-4298-b9d3-ee952eb2de0f"/>
                 </node>
             </children>
         </node>
