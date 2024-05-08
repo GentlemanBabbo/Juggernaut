@@ -163,3 +163,23 @@ data "RequirementConditions" "HasShieldEquipped(context.Source) and not HasWeapo
 data "SpellAnimationType" "Throwing"
 
 <!--Phalanx Spells-->
+
+new entry "Rush_ShieldCharge"
+type "SpellData"
+data "SpellType" "Rush"
+using "Rush_SpringAttack"
+data "Cooldown" "OncePerCombat"
+data "SpellSuccess" "DealDamage(2d6+max(StrengthModifier)+UnarmedMeleeAbilityModifier, Bludgeoning)"
+data "TargetConditions" "(Character() and not Dead()) or Item() and DistanceToTargetGreaterThan(3.0)"
+data "Icon" "Action_Charger_Attack"
+data "DisplayName" "he8bda060g1455g4c7eg9820gecc4b0bd85f3;2"
+data "Description" "h9b32b3b6g1e06g449cg85ddg0e2ffb29b009;3"
+data "TooltipDamageList" "DealDamage(2d6+max(StrengthModifier)+UnarmedMeleeAbilityModifier, Bludgeoning)"
+data "TooltipAttackSave" "MeleeWeaponAttack"
+data "TooltipStatusApply" ""
+data "UseCosts" "ActionPoint:1;BonusActionPoint:1"
+data "SpellFlags" "IsHarmful"
+data "VerbalIntent" "Damage"
+data "CastEffect" "9303b65a-805e-44d2-bf18-2edc3c9b2ae7"
+data "TargetEffect" ""
+data "HitEffect" ""
