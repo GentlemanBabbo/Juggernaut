@@ -64,7 +64,7 @@
                     <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="2"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_HeavyHanded"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_HeavyHanded;Passive_SuperiorHealth"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
