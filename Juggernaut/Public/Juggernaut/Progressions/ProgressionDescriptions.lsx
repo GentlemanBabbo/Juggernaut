@@ -5,45 +5,19 @@
     <node id="root">
       <children>
         <node id="ProgressionDescription"> Class
-                    <attribute id="Description" type="TranslatedString" handle="h8be19631g6ad0g4602g902ag65394e4191ac" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="ha149c392gc34fg47e0g956ag2cc0959596ad" version="1" />
-                    <attribute id="ProgressionTableId" type="guid" value="6f741ced-7334-4cfb-98e5-eb52dae9217a" />
-                    <attribute id="Type" type="FixedString" value="Sea-Forged" />
-                    <attribute id="UUID" type="guid" value="1a1a01ec-a0f6-4b4a-b924-6c56fe0c4820" />
+                    <attribute id="Description" type="TranslatedString" handle="h4b5e7432g47c8g48e8ga3e7gfba96fe931f0" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha39d2d4fga907g4bcbga1b3gc4145447c719" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4" />
+                    <attribute id="Type" type="FixedString" value="Juggernaut" />
+                    <attribute id="UUID" type="guid" value="cb60493a-bd53-436d-b4d4-b22be486d4f6" />
                 </node>
-        <node id="ProgressionDescription"> Cannon Balls
-                    <attribute id="Description" type="TranslatedString" handle="h426e76f2gf23ag4455gaf1bga3adab1678f1" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="ha6615320g86ecg47b9ga8ddge2c045d74392" version="1" />
-                    <attribute id="ParamMatch" type="FixedString" value="0:CannonballCharge" />
-                    <attribute id="ProgressionTableId" type="guid" value="6f741ced-7334-4cfb-98e5-eb52dae9217a" />
-                    <attribute id="Type" type="FixedString" value="ActionResource" />
-                    <attribute id="UUID" type="guid" value="54c5b6aa-87d5-4525-96e5-40ca39a4a6fb" />
-				</node>
         <node id="ProgressionDescription"> Dreadnought
-                    <attribute id="Description" type="TranslatedString" handle="h9729a382g7ba1g47abg89fdg194decfcc04a" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h2b1aa7ffg8982g45d0gac96g9ce9b0edc2b6" version="1" />
-                    <attribute id="ParamMatch" type="FixedString" value="0:NauticalCharge" />
-                    <attribute id="ProgressionTableId" type="guid" value="d59f0d6f-d4d8-47fd-87a9-0c0f3f1cb0c3" />
+                    <attribute id="Description" type="TranslatedString" handle="h8eaa4718gd259g4a7cgbb26g9920ae8b32ec" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcf1f5ae2g341fg420dg9f0dgf38483a0cbb5" version="1" />
+                    <attribute id="ParamMatch" type="FixedString" value="0:TauntCharge" />
+                    <attribute id="ProgressionTableId" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4" />
                     <attribute id="Type" type="FixedString" value="ActionResource" />
-                    <attribute id="UUID" type="guid" value="28fd180a-c7c2-4b7e-a432-ef66218f00c6" />
-				</node>
-        <node id="ProgressionDescription"> 
-                    <attribute id="Description" type="TranslatedString" handle="hd70703fbg53d4g45c4ga1d8g938f70620ffc" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="h42d92b8fg58d8g4c79gbd49gf673654f34f8" version="1" />
-                    <attribute id="ParamMatch" type="FixedString" value="SocialPassives" />
-                    <attribute id="UUID" type="guid" value="6f8a1fd1-14db-46fb-be09-7ee3e7c95dcd" />
-				</node>
-        <node id="ProgressionDescription"> 
-                    <attribute id="Description" type="TranslatedString" handle="h710e358cg64d7g4f70g86b4gff98ee59c448" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hcd347686g362eg4f48gb9e8g380d100c429e" version="1" />
-                    <attribute id="ParamMatch" type="FixedString" value="CombatPassives" />
-                    <attribute id="UUID" type="guid" value="cb18d43b-68ba-4c03-8030-ea4585683a73" />
-				</node>
-        <node id="ProgressionDescription"> 
-                    <attribute id="Description" type="TranslatedString" handle="hbcd87a03ge33eg44f6gaffbga806b3431f94" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="he237c37dg40a1g4c81gbb04gef58eed9aa33" version="1" />
-                    <attribute id="ParamMatch" type="FixedString" value="MiscPassives" />
-                    <attribute id="UUID" type="guid" value="747b3033-1e2a-4ab8-ac51-f289ecae9c0f" />
+                    <attribute id="UUID" type="guid" value="c3bdd534-c951-4d58-ada3-09bbc8d870b7" />
 				</node>
       </children>
     </node>
