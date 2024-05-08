@@ -11,7 +11,7 @@ data "DisplayName" "h5f8062d5gd5b7g4380gb575g707575e00a0d;2"
 data "Description" "hc2df5a27g9dfdg4fefgb255g498f402a775c;3"
 data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
 data "BoostContext" "OnEquip;OnCreate"
-data "BoostConditions" "not WieldingFinesseWeapon()"
+data "BoostConditions" "not HasWeaponInMainHand()"
 data "Boosts" "WeaponAttackRollBonus(StrengthModifier)"
 
 new entry "FightingStyle_UnyieldingStrength"
