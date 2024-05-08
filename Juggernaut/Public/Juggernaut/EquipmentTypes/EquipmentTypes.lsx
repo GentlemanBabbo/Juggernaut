@@ -11,7 +11,7 @@
                     <attribute id="Name" type="FixedString" value="Shield"/>
                     <attribute id="SoundAttackType" type="FixedString" value="Shield"/>
                     <attribute id="SoundEquipmentType" type="FixedString" value="Shield"/>
-                    <attribute id="UUID" type="guid" value="fac6dd3a-6ceb-40fc-91e8-6f39c33cd98a"/>
+                    <attribute id="UUID" type="guid" value="97c0f796-9261-44ee-87f2-bb70640728c0"/>
                     <attribute id="WeaponType_OneHanded" type="FixedString" value="Shield1H"/>
                     <attribute id="WeaponType_TwoHanded" type="FixedString" value="Shield1H"/>
                 </node>
