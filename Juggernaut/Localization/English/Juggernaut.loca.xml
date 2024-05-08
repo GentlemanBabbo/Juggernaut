@@ -20,8 +20,8 @@
 	<content contentuid="h8e612e68g8020g4dc0g9c3fg346ad594ad85" version="1">You are tethered to your shield. The ability &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; is available for use. Your shield is now considered magical, cannot be disarmed from you, and will return to you if thrown.</content>	
 	<content contentuid="h985304d3g7b79g419cgac03g20c31cf51cae" version="1">Shield Smash</content>
 	<content contentuid="habcb896dg7d22g4f36g8910gca5a1b36007f" version="1">Clash against your foe's frame with your shield.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h90a978dag069fg407fg9b0agd173280c15ae" version="1">Shield Striker</content>
+	<content contentuid="h68477696g5a55g42cag8e71g06144557fe37" version="1">Your bond with your shield allows you to use it as your primary weapon of choice. This remains active so long as you have a bonded shield equipped, and no weapon in your hand.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
