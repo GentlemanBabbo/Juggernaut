@@ -36,7 +36,7 @@
 	<content contentuid="habea4222gcc01g4098gb4b9gcbe69d3e7d26" version="1">Mighty Physique</content>
 	<content contentuid="h365afc7fgc150g44c6ga0fage166baede201" version="1">you have learned to put your mighty strength to use for offense and control. Your proficiency in Athletics grows, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Athletics checks.</content>
 	<content contentuid="h6350d3ddg5d29g4ac6ga2c8ge804fa04e178" version="1">Mystical Shield Blows</content>
-	<content contentuid="h7302b1cagb20eg407cg9a94g5e5e1a3d1870" version="1">Your shield strikes crash with the weight of the lives they have taken. Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier is added as force damage to &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt;.</content>
+	<content contentuid="h7302b1cagb20eg407cg9a94g5e5e1a3d1870" version="1">Your shield strikes crash with the weight of the lives they have taken. Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier is added as force damage to &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt;. Additionally, your strikes now overcome Bludgeoning resistances.</content>
 	<content contentuid="h69fd9c97g8d73g47afg8421g1e5b7e1385c6" version="1">Obliteration</content>
 	<content contentuid="hcc4c8cf6g55c2g4fb6ga40bg10165a589350" version="1">Fortress Shove</content>
 	<content contentuid="h042e2bd9ge61bg43f1gb410gd1b98b5b8860" version="1">Critical strikes with &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; cause a localized explosion that launches nearby enemies backwards.</content>
