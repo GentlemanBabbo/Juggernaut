@@ -7,9 +7,9 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_ScaleMail_Body"
+add equipment entry "ARM_RingMail_Body"
 add equipmentgroup
-add equipment entry "MAG_WoodWoad_Nature_Shield"
+add equipment entry "ARM_WoodWoad_Shield"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
@@ -36,9 +36,9 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_Bandit_A"
+add equipment entry "ARM_StuddedLeather_Body"
 add equipmentgroup
-add equipment entry "CINE_WPN_HUM_Shield_A_0"
+add equipment entry "ARM_Goblin_Shield_A"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
@@ -65,9 +65,9 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_ChainMail_1"
+add equipment entry "ARM_ChainShirt_Body"
 add equipmentgroup
-add equipment entry "MAG_FlamingFist_Flaming_Shield"
+add equipment entry "ARM_Shield_FlamingFist"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
