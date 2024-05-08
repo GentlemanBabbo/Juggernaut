@@ -174,7 +174,7 @@ data "TargetConditions" "(Character() and not Dead()) or Item() and DistanceToTa
 data "Icon" "Action_Charger_Attack"
 data "DisplayName" "he8bda060g1455g4c7eg9820gecc4b0bd85f3;2"
 data "Description" "h9b32b3b6g1e06g449cg85ddg0e2ffb29b009;3"
-data "TooltipDamageList" "DealDamage(2d6+max(StrengthModifier)+UnarmedMeleeAbilityModifier, Bludgeoning)"
+data "TooltipDamageList" "DealDamage(2d6+max(StrengthModifier)+UnarmedDamage, Bludgeoning)"
 data "TooltipAttackSave" "MeleeWeaponAttack"
 data "TooltipStatusApply" ""
 data "UseCosts" "ActionPoint:1;BonusActionPoint:1"
