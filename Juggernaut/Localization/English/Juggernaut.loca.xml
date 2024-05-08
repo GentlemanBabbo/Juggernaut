@@ -35,8 +35,8 @@
 	<content contentuid="he69b375dg6246g4462g86d6g47aaa8ec505f" version="1">Gain one additional hit point per level earned.</content>
 	<content contentuid="habea4222gcc01g4098gb4b9gcbe69d3e7d26" version="1">Mighty Physique</content>
 	<content contentuid="h365afc7fgc150g44c6ga0fage166baede201" version="1">you have learned to put your mighty strength to use for offense and control. Your proficiency in Athletics grows, and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Athletics checks.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h6350d3ddg5d29g4ac6ga2c8ge804fa04e178" version="1">Mystical Shield Blows</content>
+	<content contentuid="h7302b1cagb20eg407cg9a94g5e5e1a3d1870" version="1">Your shield strikes crash with the weight of the lives they have taken. Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; modifier is added as force damage to &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt;.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
