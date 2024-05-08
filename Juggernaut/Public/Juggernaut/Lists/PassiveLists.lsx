@@ -36,6 +36,10 @@
                     <attribute id="Passives" type="LSString" value="Passive_ImprovedObliteration"/> You can make more than 1 list. the same passive can be in different lists
                     <attribute id="UUID" type="guid" value="b2c1c62b-8ce7-41a8-840f-3fb669fc7ea8"/> make a new UUID for each passive list
                 </node>
+		<node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_ImmoveableWall"/> You can make more than 1 list. the same passive can be in different lists
+                    <attribute id="UUID" type="guid" value="eb298e43-20fc-4054-b97b-2b45c9cf113c"/> make a new UUID for each passive list
+                </node>
             </children>
         </node>
     </region>
