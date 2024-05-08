@@ -3,7 +3,7 @@
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="Juggernaut Description" />
+			<attribute id="Description" type="LSString" value="Juggernaut Description - Shield bearer" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h4b5e7432g47c8g48e8ga3e7gfba96fe931f0" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="ha39d2d4fga907g4bcbga1b3gc4145447c719" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
