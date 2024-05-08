@@ -15,10 +15,11 @@
 	<content contentuid="hc2df5a27g9dfdg4fefgb255g498f402a775c" version="1">Your methods are simple; hit that poor unfortunate as hard as you can. Add your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier to your Attack Rolls when not wielding a Finesse Weapon.</content>
 	<content contentuid="h394f95cag61d1g4375gb856ged66085e404b" version="1">Unyielding Strength</content>
 	<content contentuid="h7205a876g04d1g4058gade5ga14e157cdf02" version="1">If an enemy makes a melee attack against you and misses, you may use your reaction to deal 1d10+Strength Modifier Bludgeoning damage, knock the target back, and flatten them prone.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hb527b9b5g092eg4e93g95dbgb9cfcb3a65d6" version="1">Shield Bond</content>
+	<content contentuid="h3456daf4g86d9g408ag866dga74c56f14857" version="1">Tether your spirit unto your shield. You unlock the ability &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; so long as you only have your bonded shield equipped. You cannot be disarmed from your bonded shield; if thrown, it will return to you upon landing. Bonded shields are considered a Magical item.</content>
+	<content contentuid="h8e612e68g8020g4dc0g9c3fg346ad594ad85" version="1">You are tethered to your shield. The ability &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; is available for use. Your shield is now considered magical, cannot be disarmed from you, and will return to you if thrown.</content>	
+	<content contentuid="h985304d3g7b79g419cgac03g20c31cf51cae" version="1">Shield Smash</content>
+	<content contentuid="habcb896dg7d22g4f36g8910gca5a1b36007f" version="1">Clash against your foe's frame with your shield.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
