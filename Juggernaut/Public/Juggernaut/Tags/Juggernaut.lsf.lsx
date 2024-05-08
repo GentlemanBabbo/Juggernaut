@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="The Sentinel is a formidable warrior class, specializing in shield-based combat and protection tactics." />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="12192969856EB0B5BAD9353E5A2B9606FCB81" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="0252515E9727EDAE0F6637E5FE6032AFC1B28" version="1" />
+			<attribute id="Description" type="LSString" value="Juggernaut Description" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h4b5e7432g47c8g48e8ga3e7gfba96fe931f0" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ha39d2d4fga907g4bcbga1b3gc4145447c719" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="SENTINEL" />
-			<attribute id="UUID" type="guid" value="1e7047d0-30ee-4ad9-9d43-fce36a4b3987" />
+			<attribute id="Name" type="FixedString" value="JUGGERNAUT" />
+			<attribute id="UUID" type="guid" value="7142b756-0eba-4b3c-992d-34f466dc1550" />
 			<children>
 				<node id="Categories">
 					<children>
