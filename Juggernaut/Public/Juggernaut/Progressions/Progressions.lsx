@@ -12,7 +12,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(30092233-d2d3-4aeb-b046-d4eb8868c77c,1,FightingStyle);SelectSkills(0651d995-95b6-45ef-a261-ff604880b461,2)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(30092233-d2d3-4aeb-b046-d4eb8868c77c,1,FightingStyle);SelectSkills(0651d995-95b6-45ef-a261-ff604880b461,2);AddSpells(0673408b-f54b-4870-866a-5ca06210af16,,,,AlwaysPrepared)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					<attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="6f233664-2bef-4d16-9a4c-95be17c1bc91"/> a Unique UUID specificaly for this entry within the table
 					<children>
@@ -40,7 +40,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(30092233-d2d3-4aeb-b046-d4eb8868c77c,1,FightingStyle);SelectSkills(0651d995-95b6-45ef-a261-ff604880b461,2)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(30092233-d2d3-4aeb-b046-d4eb8868c77c,1,FightingStyle);SelectSkills(0651d995-95b6-45ef-a261-ff604880b461,2);AddSpells(0673408b-f54b-4870-866a-5ca06210af16,,,,AlwaysPrepared)"/>
 					<attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/>
                     <attribute id="UUID" type="guid" value="9ab0670e-705d-46d6-aaac-86cdc499f05d"/>
 					<children>
@@ -452,6 +452,7 @@
                     <attribute id="Name" type="LSString" value="Ravager"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(6ae860c3-9183-4cff-ab59-039f2a6be9fd,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="5348800d-557c-495e-8e06-43da0819e7c3"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="e52615d2-94a7-4e46-98c6-ea54278d84cf"/> Give it a Unique UUID
                 </node>
