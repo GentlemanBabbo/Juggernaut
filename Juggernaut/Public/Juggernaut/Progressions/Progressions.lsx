@@ -509,6 +509,7 @@
                     <attribute id="Name" type="LSString" value="Ravager"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(19a00ddc-7c98-44e4-ace6-68e9169741d9,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="5348800d-557c-495e-8e06-43da0819e7c3"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="b8af2111-c446-4376-91a2-73195639bfdb"/> Give it a Unique UUID
                 </node>
