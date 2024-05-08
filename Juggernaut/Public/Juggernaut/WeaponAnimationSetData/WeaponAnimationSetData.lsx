@@ -8,7 +8,7 @@
                     <attribute id="AnimationSetUUID" type="FixedString" value="3bfdfbfe-4bc4-45c9-b663-400555d13eb4"/>
                     <attribute id="MainHand" type="FixedString" value="Shield1H"/>
                     <attribute id="OffHand" type="FixedString" value="Shield1H"/>
-                    <attribute id="UUID" type="guid" value="bcd43600-aa3a-46b0-8ac4-f2f6d455a598"/>
+                    <attribute id="UUID" type="guid" value="0f3568c0-8c94-4a2b-a97a-71f437fddc5c"/>
                 </node>
             </children>
         </node>
