@@ -1,9 +1,6 @@
-// Magus Class Features //
-
-new entry "Passive_Example"
+new entry "FightingStyle_Unmoveablestance"
 type "PassiveData"
-data "DisplayName" "" // from .loca file //
-data "Description" "" // from .loca file //
-data "Boosts" "UnlockSpell(Spell_Example)" // what does the passive give //
-
-// Check Modifiers for additional things for what you can do with Passives //
+data "DisplayName" "h93f686bag5179g4cd2g8736gf248b204fa7e;2"
+data "Description" "h274b08edgc1adg435cg8bf7g66becc25ed28;3"
+data "Icon" "Spell_Necromancy_FalseLife"
+data "Boosts" "UnlockSpell(Shout_UnmoveableStance)"
