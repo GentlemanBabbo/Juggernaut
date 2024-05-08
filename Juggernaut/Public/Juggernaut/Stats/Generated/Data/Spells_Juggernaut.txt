@@ -162,8 +162,6 @@ data "SpellActionType" "Throw"
 data "RequirementConditions" "HasShieldEquipped(context.Source) and not HasWeaponInMainHand()"
 data "SpellAnimationType" "Throwing"
 
-<!--Phalanx Spells-->
-
 new entry "Rush_ShieldCharge"
 type "SpellData"
 data "SpellType" "Rush"
@@ -183,3 +181,5 @@ data "VerbalIntent" "Damage"
 data "CastEffect" "9303b65a-805e-44d2-bf18-2edc3c9b2ae7"
 data "TargetEffect" ""
 data "HitEffect" ""
+
+<!--Phalanx Spells-->
