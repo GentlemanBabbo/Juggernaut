@@ -42,8 +42,8 @@
 	<content contentuid="h042e2bd9ge61bg43f1gb410gd1b98b5b8860" version="1">Critical strikes with &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; cause a localized explosion that launches nearby enemies backwards.</content>
 	<content contentuid="h8ac060efgc006g4c10g80f4g3be2acf5c9f0" version="1">Improved Obliteration</content>
 	<content contentuid="h0043a0ebga059g4fbegb5b8g59c1f291e8d4" version="1">Critical strikes with &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; cause a localized explosion that knocks enemies prone.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h836f5cbbg9aa6g4229ga8fbgf47e7f481ffc" version="1">Immoveable Wall</content>
+	<content contentuid="he0fcaff7g96c9g4774ga0c5gbe04ed330224" version="1">Your AC increases by 2.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
