@@ -5,14 +5,14 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="" version="1"/> A text tied to the .loca file
+                    <attribute id="Description" type="TranslatedString" handle="h8eaa4718gd259g4a7cgbb26g9920ae8b32ec" version="1"/> A text tied to the .loca file
 					<attribute id="DiceType" type="uint32" value="0"/> If the resource has any dice type, like Superiority die from BM
-                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcf1f5ae2g341fg420dg9f0dgf38483a0cbb5" version="1"/> A text tied to the .loca file
                     <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
-                    <attribute id="Name" type="FixedString" value="BulwarkCharge"/> What you will be referring to in your code
+                    <attribute id="Name" type="FixedString" value="TauntCharge"/> What you will be referring to in your code
                     <attribute id="PartyActionResource" type="bool" value="false"/>
                     <attribute id="ReplenishType" type="FixedString" value="ShortRest"/> Rest = Long Rest, ShortRest = ShortRest
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
