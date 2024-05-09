@@ -124,9 +124,28 @@ data "Icon" "PassiveFeature_BrutalCritical"
 data "Properties" "Highlighted"
 data "Boosts" "CriticalHitExtraDice(1, MeleeWeaponAttack);CriticalHitExtraDice(1, MeleeUnarmedAttack);"
 
+new entry "Passive_LightShield"
+type "PassiveData"
+data "DisplayName" "h28963769gfe82g4157ga9dbg0338e4e49bf3;2"
+data "Description" "he443ed07g79e6g41a3g99bbgcadbd468ea96;2"
+data "DescriptionParams" "Distance(3)"
+data "Icon" "PassiveFeature_UnarmoredMovement"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source) and HasShieldEquipped(context.Source)"
+data "Boosts" "ActionResource(Movement, 3, 0)"
+
+new entry "Passive_MentallyFortified"
+type "PassiveData"
+data "DisplayName" "hd433c2ddg809bg45f2ga378g5763b0872f5f;3"
+data "Description" "h5ff2fb84g5fe3g4949gac09g2ac7f8f9e774;2"
+data "Icon" "PassiveFeature_ThoughtShield_PsychicReflection"
+data "Properties" "Highlighted"
+data "Boosts" "Resistance(Psychic,Resistant)"
+data "StatsFunctorContext" "OnDamage"
+
 <!--Defender Passives-->
 
 <!--Ravager Passives-->
-
 
 <!--Phalanx Passives-->
