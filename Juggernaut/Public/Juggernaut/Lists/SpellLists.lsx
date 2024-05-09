@@ -8,6 +8,10 @@
                     <attribute id="Spells" type="LSString" value="Shout_ShieldBond;Target_TauntFoe;Target_ShieldSmash"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="0673408b-f54b-4870-866a-5ca06210af16"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
+				<node id="SpellList"> Juggernaut Lvl 2
+                    <attribute id="Spells" type="LSString" value="Target_ShieldThrust"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="8b4ad1ec-ebc8-4a79-99ed-e5bb1e4af944"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
 				<node id="SpellList"> Defender Lvl 1
                     <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="51864afe-14ce-4fbc-a522-f2defdba08a9"/> make a new UUID
