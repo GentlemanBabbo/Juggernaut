@@ -144,6 +144,14 @@ data "Properties" "Highlighted"
 data "Boosts" "Resistance(Psychic,Resistant)"
 data "StatsFunctorContext" "OnDamage"
 
+new entry "Passive_WeightTraining"
+type "PassiveData"
+data "DisplayName" "he92663e3gabacg46f4ga2c4ga69e4a92be79;2"
+data "Description" "h4022be5fgdf76g48d1gba33g56cbc24af321;2"
+data "Icon" "PassiveFeature_BeguilingDefenses"
+data "Properties" "Highlighted"
+data "Boosts" "CarryCapacityMultiplier(3)
+
 <!--Defender Passives-->
 
 <!--Ravager Passives-->
