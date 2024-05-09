@@ -41,17 +41,6 @@ data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and
 data "TooltipUseCosts" "ReactionActionPoint:1"
 data "Boosts" "UnlockInterrupt(Interrupt_FightingStyle_UnyieldingStrength)"
 
-new entry "Juggernaut_ShieldAttack"
-type "PassiveData"
-data "DisplayName" "h90a978dag069fg407fg9b0agd173280c15ae;1"
-data "Description" "h68477696g5a55g42cag8e71g06144557fe37;1"
-data "DescriptionParams" "DealDamage(1d8+StrengthModifier+UnarmedMeleeAbilityModifier, Bludgeoning)"
-data "Icon" "PassiveFeature_ShieldMaster_PassiveBonuses"
-data "Properties" "IsHidden"
-data "BoostContext" "OnEquip;OnCreate;OnUnequip"
-data "BoostConditions" "HasShieldEquipped(context.Source) and not HasWeaponInMainHand()"
-data "Boosts" "AttackSpellOverride(Target_ShieldSmash, Target_UnarmedAttack)"
-
 new entry "Passive_HeavyHanded"
 type "PassiveData"
 data "DisplayName" "hcb0ab787gede6g40e0g8a0ag2a84ce5d4649;2"
