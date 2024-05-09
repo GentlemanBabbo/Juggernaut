@@ -45,7 +45,7 @@
                     <attribute id="UUID" type="guid" value="eb298e43-20fc-4054-b97b-2b45c9cf113c"/> make a new UUID for each passive list
                 </node>
        		<node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_LightShield,Passive_MentallyFortified" />
+                    <attribute id="Passives" type="LSString" value="Passive_LightShield,Passive_MentallyFortified,MageSlayer_Advantage,Passive_WeightTraining" />
                     <attribute id="UUID" type="guid" value="a9cd4ae6-b47f-4943-bab7-948751378785" />
                 </node>
             </children>
