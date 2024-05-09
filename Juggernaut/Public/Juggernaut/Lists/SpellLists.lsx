@@ -5,7 +5,7 @@
         <node id="root">
             <children>
 				<node id="SpellList"> Juggernaut Lvl 1
-                    <attribute id="Spells" type="LSString" value="Shout_ShieldBond;Target_TauntFoe"/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Shout_ShieldBond;Target_TauntFoe;Target_ShieldSmash"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="0673408b-f54b-4870-866a-5ca06210af16"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Defender Lvl 1
