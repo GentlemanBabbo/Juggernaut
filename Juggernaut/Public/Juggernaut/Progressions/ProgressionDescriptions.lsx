@@ -27,6 +27,12 @@
                     <attribute id="Type" type="FixedString" value="ActionResource" />
                     <attribute id="UUID" type="guid" value="2100377f-eaeb-42ce-8a19-bb72a460b6d7" />
 				</node>
+        <node id="ProgressionDescription"> 
+                    <attribute id="Description" type="TranslatedString" handle="h59a2e576ga3e9g4ffcg949bg62ebf1d6cdfb" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hde6f57a8gf661g441cga26bg387516283352" version="1" />
+                    <attribute id="ParamMatch" type="FixedString" value="BattlePassives" />
+                    <attribute id="UUID" type="guid" value="bd4b8e00-b41a-4c73-ba27-1ba50b647ff9" />
+				</node>
       </children>
     </node>
   </region>
