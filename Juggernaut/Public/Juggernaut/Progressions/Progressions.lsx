@@ -67,7 +67,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="Passive_HeavyHanded;Passive_SuperiorHealth"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+		    <attribute id="Selectors" type="LSString" value="SelectPassives(a9cd4ae6-b47f-4943-bab7-948751378785,1,BattlePassives)" />
 					<attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="91646ca6-a144-4400-a959-8589835a6018"/> a Unique UUID specificaly for this entry within the table
                 </node>
@@ -91,7 +91,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+		    <attribute id="Selectors" type="LSString" value="SelectPassives(a9cd4ae6-b47f-4943-bab7-948751378785,1,BattlePassives)" />
 					<attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="018d6031-30e5-47bf-bc66-913681fa82a1"/> a Unique UUID specificaly for this entry within the table
                 </node>				
@@ -139,7 +139,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+		    <attribute id="Selectors" type="LSString" value="SelectPassives(a9cd4ae6-b47f-4943-bab7-948751378785,1,BattlePassives)" />
 					<attribute id="TableUUID" type="guid" value="fb01457b-6100-49db-87c1-9493c2e6c4e4"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="b1fdfe41-d886-4e53-a289-cf89070c5e8e"/> a Unique UUID specificaly for this entry within the table
                 </node>	
