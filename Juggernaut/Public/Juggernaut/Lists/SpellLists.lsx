@@ -17,8 +17,12 @@
                     <attribute id="UUID" type="guid" value="51864afe-14ce-4fbc-a522-f2defdba08a9"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 1
-                    <attribute id="Spells" type="LSString" value="Throw_ShieldToss"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Throw_ShieldToss;Target_QuakingStrike"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="6ae860c3-9183-4cff-ab59-039f2a6be9fd"/> make a new UUID
+                </node>
+				<node id="SpellList"> Ravager Lvl 3
+                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="f6d880f0-f7d1-4d1a-a3ef-9ae140b8e074"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 5
                     <attribute id="Spells" type="LSString" value="Throw_ShieldTossBA"/> you can have multiple lists, and the same spell can be in different lists
