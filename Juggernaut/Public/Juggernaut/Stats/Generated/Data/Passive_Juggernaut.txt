@@ -12,7 +12,7 @@ type "PassiveData"
 data "DisplayName" "ha3d30e31g6543g4618gb7f2g4c126a73608e;1"
 data "Description" "hc8aaae64g37edg4a0bg8192gd1888bffa981;1"
 data "Icon" "PassiveFeature_MartialAdept"
-data "Boosts" "ActionResource(RaiderCharge,1,0)
+data "Boosts" "ActionResource(RaiderCharge,2,0)
 
 new entry "FightingStyle_Unmoveablestance"
 type "PassiveData"
