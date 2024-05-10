@@ -25,7 +25,7 @@
 	<content contentuid="h3456daf4g86d9g408ag866dga74c56f14857" version="1">Tether your spirit unto your shield. You unlock the ability &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; so long as you only have your bonded shield equipped. You cannot be disarmed from your bonded shield; if thrown, it will return to you upon landing. Bonded shields are considered a Magical item.</content>
 	<content contentuid="h8e612e68g8020g4dc0g9c3fg346ad594ad85" version="1">You are tethered to your shield. The ability &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; is available for use. Your shield is now considered magical, cannot be disarmed from you, and will return to you if thrown.</content>	
 	<content contentuid="h985304d3g7b79g419cgac03g20c31cf51cae" version="1">Shield Smash</content>
-	<content contentuid="habcb896dg7d22g4f36g8910gca5a1b36007f" version="1">Clash against your foe's frame with your shield.</content>
+	<content contentuid="habcb896dg7d22g4f36g8910gca5a1b36007f" version="1">Clash against your foe's frame with your shield. The damage of this attack increases with your juggernaut level.</content>
 	<content contentuid="h90a978dag069fg407fg9b0agd173280c15ae" version="1">Shield Striker</content>
 	<content contentuid="h68477696g5a55g42cag8e71g06144557fe37" version="1">Your bond with your shield allows you to use it as your primary weapon of choice. This remains active so long as you have a bonded shield equipped, and no weapon in your hand.</content>
 	<content contentuid="ha9c80e3agb6d1g420bg897egfaf1fe8f2c0e" version="1">Shield Toss</content>
@@ -63,7 +63,7 @@
 	<content contentuid="h02452a5egd76eg4613g9419g3d1b1fb380e8" version="1">Quaking Strike</content>
 	<content contentuid="hc80790b1ge414g412dga7c7g9e020c0e163a" version="1">Thunder across the plains with your weapon; utilize all your resources for this turn to crash down upon your foe.</content>
 	<content contentuid="hf685b456g0f0cg45ddg8861g06f2bec485a3" version="1">Shield Thrust</content>
-	<content contentuid="hcd618214g726bg447dg86a8gf382081cdda6" version="1">Channel your weight into a forceful strike, leveling your opponent.</content>
+	<content contentuid="hcd618214g726bg447dg86a8gf382081cdda6" version="1">Channel your weight into a forceful strike, leveling your opponent. The damage of this attack increases with your juggernaut level.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
