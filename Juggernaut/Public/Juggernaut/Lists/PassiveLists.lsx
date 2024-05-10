@@ -13,7 +13,7 @@
                     <attribute id="UUID" type="guid" value="8b5288d8-1661-4fb7-b812-2cf230d92cee" />
                 </node>
        		<node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="FightingStyle_Protection,FightingStyle_Defense,FightingStyle_Unmoveablestance,FightingStyle_BruteForce,FightingStyle_UnyieldingStrength" />
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Protection,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_Unmoveablestance,FightingStyle_BruteForce,FightingStyle_UnyieldingStrength" />
                     <attribute id="UUID" type="guid" value="30092233-d2d3-4aeb-b046-d4eb8868c77c" />
                 </node>
                 <node id="PassiveList">
