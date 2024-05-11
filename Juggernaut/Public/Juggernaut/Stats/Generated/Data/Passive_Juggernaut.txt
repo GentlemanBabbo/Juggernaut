@@ -164,7 +164,6 @@ data "DescriptionParams" "DealDamage(LevelMapValue(RavagerFistDamage), Bludgeoni
 data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
 data "Properties" "Highlighted"
 data "BoostContext" "OnEquip;OnCreate"
-data "BoostConditions" "HasShieldEquipped(context.Source)"
-data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(RavagerFistDamage))"
+data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(RavagerFistDamage));AttackSpellOverride(Target_BreakerPunch, Target_UnarmedAttack)"
 
 <!--Phalanx Passives-->
