@@ -141,8 +141,30 @@ data "Icon" "PassiveFeature_BeguilingDefenses"
 data "Properties" "Highlighted"
 data "Boosts" "CarryCapacityMultiplier(3)
 
+new entry "Passive_UarmedShieldDamage"
+type "PassiveData"
+data "DisplayName" "h834e1356gcb12g4c17gb34dg99e43c0da800"
+data "Description" "hdf72cddfga8a7g442cg9a3cg7032764a26b2"
+data "DescriptionParams" "DealDamage(LevelMapValue(JuggernautShieldDamage), Bludgeoning)"
+data "Icon" "PassiveFeature_ThoughtShield_PsychicReflection"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "HasShieldEquipped(context.Source)"
+data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(JuggernautShieldDamage))"
+
 <!--Defender Passives-->
 
 <!--Ravager Passives-->
+
+new entry "Passive_GreatMassCharge"
+type "PassiveData"
+data "DisplayName" "h21f24ce1g1cfag4982g861fge515d48bb373"
+data "Description" "he85c8660ga4a6g4898gad4fgfe92815cd0ad"
+data "DescriptionParams" "DealDamage(LevelMapValue(RavagerFistDamage), Bludgeoning)"
+data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "HasShieldEquipped(context.Source)"
+data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(RavagerFistDamage))"
 
 <!--Phalanx Passives-->
