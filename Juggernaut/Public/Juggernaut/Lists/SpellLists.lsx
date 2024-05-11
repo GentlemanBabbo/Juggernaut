@@ -25,7 +25,7 @@
                     <attribute id="UUID" type="guid" value="f6d880f0-f7d1-4d1a-a3ef-9ae140b8e074"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 5
-                    <attribute id="Spells" type="LSString" value="Rush_Primal_Stampede"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Rush_UnstoppableCharge"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="16a98899-d12c-4a12-aa50-b154d0378d24"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 8
