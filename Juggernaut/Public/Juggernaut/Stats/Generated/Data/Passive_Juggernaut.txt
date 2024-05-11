@@ -2,14 +2,14 @@
 
 new entry "TauntChargeUnlocked"
 type "PassiveData"
-data "DisplayName" "h37630997gefbeg4fdcgaef1gea58f108953d;1"
+data "DisplayName" "hcf1f5ae2g341fg420dg9f0dgf38483a0cbb5;1"
 data "Description" "h8eaa4718gd259g4a7cgbb26g9920ae8b32ec;1"
 data "Icon" "PassiveFeature_MartialAdept"
 data "Boosts" "ActionResource(TauntCharge,1,0)
 
 new entry "RaiderChargeUnlocked"
 type "PassiveData"
-data "DisplayName" "ha3d30e31g6543g4618gb7f2g4c126a73608e;1"
+data "DisplayName" "h32629eb6g223cg49b0g8a85gc3552f474804;1"
 data "Description" "hc8aaae64g37edg4a0bg8192gd1888bffa981;1"
 data "Icon" "PassiveFeature_MartialAdept"
 data "Boosts" "ActionResource(RaiderCharge,2,0)
