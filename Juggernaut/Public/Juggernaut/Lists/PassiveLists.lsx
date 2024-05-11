@@ -17,7 +17,7 @@
                     <attribute id="UUID" type="guid" value="30092233-d2d3-4aeb-b046-d4eb8868c77c" />
                 </node>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Juggernaut_ShieldAttack"/> a list of passives separated with a comma
+                    <attribute id="Passives" type="LSString" value="Passive_UarmedShieldDamage,Passive_GreatMassCharge"/> a list of passives separated with a comma
                     <attribute id="UUID" type="guid" value="8e9ea049-7033-4ebb-9f37-7003b6a74b3c"/> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
                 </node>
 		<node id="PassiveList">
