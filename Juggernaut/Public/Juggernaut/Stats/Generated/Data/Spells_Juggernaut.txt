@@ -268,7 +268,7 @@ data "SpellActionType" "Throw"
 data "RequirementConditions" "HasShieldEquipped(context.Source)"
 data "SpellAnimationType" "Throwing"
 
-new entry "Rush_Primal_Stampede"
+new entry "Rush_UnstoppableCharge"
 type "SpellData"
 data "SpellType" "Rush"
 data "TargetRadius" "9"
