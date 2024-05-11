@@ -10,10 +10,8 @@
 	<content contentuid="h54b64105gfa42g45cag9205gb50e0aa1c4d0" version="1">Some juggernauts train their entire lives with shields, living by the idea that outlasting an enemy in combat is a gauranteed path to victory. The Phalanx does just that, shrugging off mighty blows with their shields endlessly until their opponent eventually tires and is dealt the killing blow. Consummate professionals among their kind, the Phalanx never seem to let up. Even in the biggest and bloodiest battles, they are always the last ones standing.</content>
 	<content contentuid="hcf1f5ae2g341fg420dg9f0dgf38483a0cbb5" version="1">Taunt Charge</content>
 	<content contentuid="h8eaa4718gd259g4a7cgbb26g9920ae8b32ec" version="1">Utilized to use the &lt;LSTag Type="Spell" Tooltip="Target_TauntFoe"&gt;Taunt Foe&lt;/LSTag&gt; ability.</content>	
-	<content contentuid="h37630997gefbeg4fdcgaef1gea58f108953d" version="1">Taunt Charge Unlocked</content>
 	<content contentuid="h32629eb6g223cg49b0g8a85gc3552f474804" version="1">Raider Charge</content>
 	<content contentuid="hc8aaae64g37edg4a0bg8192gd1888bffa981" version="1">Utilized for advanced tactics in the juggernaut's arsenal.</content>
-	<content contentuid="ha3d30e31g6543g4618gb7f2g4c126a73608e" version="1">Raider Charge Unlocked</content>	
 	<content contentuid="h93f686bag5179g4cd2g8736gf248b204fa7e" version="1">Unmoveable Stance</content>
 	<content contentuid="h274b08edgc1adg435cg8bf7g66becc25ed28" version="1">As an action, you can enter a defensive stance, in which only the most powerful forces can move. You gain advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws. This lasts until the start of your next turn.</content>
 	<content contentuid="hd863bfa2g5526g4c04gb618gaebc51af2b26" version="1">You have gained Advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws until your next turn.</content>
