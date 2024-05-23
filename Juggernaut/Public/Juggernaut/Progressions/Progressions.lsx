@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression"> Mainclass Level 1
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor)"/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);ActionResource(RaiderCharge,2,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_UarmedShieldDamage;TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -33,7 +33,7 @@
                 </node>
 				<node id="Progression"> Mainclass Level 1 MULTICLASS. (you will want a separate one as there are no AbilityBonus when multiclassing). Multiclassed character will use this progression entry instead of the previous one
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);ActionResource(RaiderCharge,2,0);ActionResource(TauntCharge,1,0)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Juggernaut"/>
@@ -73,7 +73,7 @@
                 </node>
                 <node id="Progression"> Mainclass Level 3
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="3"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -97,7 +97,7 @@
                 </node>				
                 <node id="Progression"> Mainclass Level 5
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value=";ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="5"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_MightyPhysique;ExtraAttack;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -109,7 +109,7 @@
                 </node>		
                 <node id="Progression"> Mainclass Level 6
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="6"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;Passive_MysticalShieldStrike"/> most class features usually can be done with passives
@@ -121,7 +121,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 7
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="7"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_Obliteration;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -145,7 +145,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 9
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="9"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -157,7 +157,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 10
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="10"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;Passive_ImprovedObliteration"/> most class features usually can be done with passives
@@ -169,7 +169,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 11
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="11"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_ImmoveableWall;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -193,7 +193,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 13
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="13"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -205,7 +205,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 14
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="14"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked"/> most class features usually can be done with passives
@@ -217,7 +217,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 15
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="15"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -241,7 +241,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 17
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="17"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -265,7 +265,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 19
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="19"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
@@ -277,7 +277,7 @@
                 </node>	
                 <node id="Progression"> Mainclass Level 20
                     <attribute id="AllowImprovement" type="bool" value="true"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="20"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked"/> most class features usually can be done with passives
