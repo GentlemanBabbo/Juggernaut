@@ -6,9 +6,7 @@
             <children>
                 <node id="ActionResourceDefinition">
                     <attribute id="Description" type="TranslatedString" handle="h8eaa4718gd259g4a7cgbb26g9920ae8b32ec" version="1"/> A text tied to the .loca file
-					<attribute id="DiceType" type="uint32" value="0"/> If the resource has any dice type, like Superiority die from BM
                     <attribute id="DisplayName" type="TranslatedString" handle="hcf1f5ae2g341fg420dg9f0dgf38483a0cbb5" version="1"/> A text tied to the .loca file
-                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
@@ -21,9 +19,7 @@
                 </node>
                 <node id="ActionResourceDefinition">
                     <attribute id="Description" type="TranslatedString" handle="hc8aaae64g37edg4a0bg8192gd1888bffa981" version="1"/> A text tied to the .loca file
-					<attribute id="DiceType" type="uint32" value="0"/> If the resource has any dice type, like Superiority die from BM
                     <attribute id="DisplayName" type="TranslatedString" handle="h32629eb6g223cg49b0g8a85gc3552f474804" version="1"/> A text tied to the .loca file
-                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
