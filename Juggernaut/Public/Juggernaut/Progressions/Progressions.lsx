@@ -9,7 +9,7 @@
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);ActionResource(RaiderCharge,2,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectPassives(30092233-d2d3-4aeb-b046-d4eb8868c77c,1,FightingStyle);SelectSkills(0651d995-95b6-45ef-a261-ff604880b461,2);AddSpells(0673408b-f54b-4870-866a-5ca06210af16,,,,AlwaysPrepared)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -76,7 +76,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="3"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -97,10 +97,10 @@
                 </node>				
                 <node id="Progression"> Mainclass Level 5
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value=";ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="5"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_MightyPhysique;ExtraAttack;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_MightyPhysique;ExtraAttack"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -112,7 +112,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="6"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;Passive_MysticalShieldStrike"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_MysticalShieldStrike"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -124,7 +124,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="7"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Obliteration;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Obliteration"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -148,7 +148,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="9"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -160,7 +160,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="10"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;Passive_ImprovedObliteration"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_ImprovedObliteration"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -172,7 +172,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="11"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_ImmoveableWall;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_ImmoveableWall"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -196,7 +196,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="13"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -208,7 +208,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="14"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -220,7 +220,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="15"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -244,7 +244,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0);ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="17"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked;RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -268,7 +268,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(RaiderCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="19"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="RaiderChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -280,7 +280,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(TauntCharge,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="20"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Juggernaut"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="TauntChargeUnlocked"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
