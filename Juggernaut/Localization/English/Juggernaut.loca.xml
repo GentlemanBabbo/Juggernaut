@@ -12,8 +12,8 @@
 	<content contentuid="h8eaa4718gd259g4a7cgbb26g9920ae8b32ec" version="1">Utilized to use the &lt;LSTag Type="Spell" Tooltip="Target_TauntFoe"&gt;Taunt Foe&lt;/LSTag&gt; ability.</content>	
 	<content contentuid="h32629eb6g223cg49b0g8a85gc3552f474804" version="1">Raider Charge</content>
 	<content contentuid="hc8aaae64g37edg4a0bg8192gd1888bffa981" version="1">Utilized for advanced tactics in the juggernaut's arsenal.</content>
-	<content contentuid="h834e1356gcb12g4c17gb34dg99e43c0da800" version="1">Shield Strikes</content>
-	<content contentuid="hdf72cddfga8a7g442cg9a3cg7032764a26b2" version="1">Your &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; ability is based on unarmed damage scaling.</content>	
+	<content contentuid="h834e1356gcb12g4c17gb34dg99e43c0da800" version="1">Ravager Shield Strikes</content>
+	<content contentuid="hdf72cddfga8a7g442cg9a3cg7032764a26b2" version="1">Your &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; ability is supplemented with unarmed damage scaling.</content>	
 	<content contentuid="h93f686bag5179g4cd2g8736gf248b204fa7e" version="1">Unmoveable Stance</content>
 	<content contentuid="h274b08edgc1adg435cg8bf7g66becc25ed28" version="1">As an action, you can enter a defensive stance, in which only the most powerful forces can move. You gain advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws. This lasts until the start of your next turn.</content>
 	<content contentuid="hd863bfa2g5526g4c04gb618gaebc51af2b26" version="1">You have gained Advantage on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; Saving Throws until your next turn.</content>
@@ -70,8 +70,8 @@
 	<content contentuid="h5a7f001ag372eg4150ga666g7bfa0f31b7f1" version="1">The weight of your world rests within your dominant hand. Now beat your opponent to death with it.</content>
 	<content contentuid="ha29b3c78ga7aag431fgae3fgd2f61c7b61eb" version="1">Unstoppable Charge</content>
 	<content contentuid="h947bcc64g39b7g47bcga07fg75880f2dc8d1" version="1">Steamroll all in your way; inflict damage on targets that cross your path and potentially knock them prone.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hd953876cg4316g4a2dg81d6g229b0707898c" version="1">Phalanx Shield Strikes</content>
+	<content contentuid="h4befe45ag969cg4a41gbbcdg4c0db0ac25a8" version="1">Your &lt;LSTag Type="Spell" Tooltip="Target_ShieldSmash"&gt;Shield Smash&lt;/LSTag&gt; ability is supplemented with half your main hand weapon damage.</content>		
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
