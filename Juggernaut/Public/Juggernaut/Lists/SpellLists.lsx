@@ -5,7 +5,7 @@
         <node id="root">
             <children>
 				<node id="SpellList"> Juggernaut Lvl 1
-                    <attribute id="Spells" type="LSString" value="Shout_ShieldBond;Target_TauntFoe;Target_ShieldSmash"/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Shout_ShieldBond;Target_TauntFoe"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="0673408b-f54b-4870-866a-5ca06210af16"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Juggernaut Lvl 2
@@ -17,7 +17,7 @@
                     <attribute id="UUID" type="guid" value="51864afe-14ce-4fbc-a522-f2defdba08a9"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 1
-                    <attribute id="Spells" type="LSString" value="Throw_ShieldToss;Target_BreakerPunch"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Throw_ShieldToss;Target_BreakerPunch;Target_ShieldSmash_Ravager"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="6ae860c3-9183-4cff-ab59-039f2a6be9fd"/> make a new UUID
                 </node>
 				<node id="SpellList"> Ravager Lvl 3
@@ -33,7 +33,7 @@
                     <attribute id="UUID" type="guid" value="19a00ddc-7c98-44e4-ace6-68e9169741d9"/> make a new UUID
                 </node>
 				<node id="SpellList"> Phalanx Lvl 1
-                    <attribute id="Spells" type="LSString" value="Target_QuakingStrike"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Target_QuakingStrike;Target_ShieldSmash_Phalanx"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="d7d41561-a77a-4aa8-83e0-0ced8abfe0ed"/> make a new UUID
                 </node>
 				<node id="SpellList"> Phalanx Lvl 3 
