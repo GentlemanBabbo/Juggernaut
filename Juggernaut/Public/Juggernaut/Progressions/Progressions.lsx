@@ -615,7 +615,7 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Phalanx"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_WeaponShieldDamage"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(d7d41561-a77a-4aa8-83e0-0ced8abfe0ed,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="560ae60a-e786-45b7-b0a1-fb8c898d6270"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="f9ce3477-1a5d-4a05-b07e-5490541e8781"/> Give it a Unique UUID
