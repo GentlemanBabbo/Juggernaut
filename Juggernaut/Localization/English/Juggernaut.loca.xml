@@ -76,6 +76,8 @@
 	<content contentuid="h455fd55bg0078g4ffcgaeb1gd63a69d095d4" version="1">Increase your AC by an additional 2 if you are wearing a shield.</content>
 	<content contentuid="h59a41c36g120eg49f7g99aag104e932adc47" version="1">Iron Berserker</content>
 	<content contentuid="hc9569122ge8fag42dbg8963g7829300afcb7" version="1">Steel yourself for battle; your skin becomes a rigid and unforgiving &lt;LSTag Tooltip="METAL_COATING_PHALANX"&gt;Metal Coat&lt;/LSTag&gt;. Unlocks the spell &lt;LSTag Type="Spell" Tooltip="Zone_BerserkerBarrage"&gt;Berserker Barrage&lt;/LSTag&gt;.</content>
+	<content contentuid="h69b01d8cgf3acg4c3agaed1gd2a3f92e8a62" version="1">Ironclad Berserking</content>
+	<content contentuid="he27584dfg3788g4dfdg9454g9db254c54a4e" version="1">You have steeled yourself for battle. Increase your AC by 2, and unlock the spell &lt;LSTag Type="Spell" Tooltip="Zone_BerserkerBarrage"&gt;Berserker Barrage&lt;/LSTag&gt;.</content>	
 	<content contentuid="h578f38d0gd36dg46f2gaa23g61ea2403de9f" version="1">Berserker Barrage</content>
 	<content contentuid="h2874278ag3fdbg457ag9538geb4d8c4dff18" version="1">Unleash a flurry of strikes in an outward direction.</content>
 	<content contentuid="h50772e5cgc4c7g494cg9c5dg64cb5d4770ca" version="1">Bulkwark Charge</content>
