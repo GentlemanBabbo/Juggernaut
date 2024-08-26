@@ -50,7 +50,7 @@ data "Description" "h93fa2035g37abg453cg94c9g8014616e1e7a;2"
 data "StatsFunctorContext" "OnCast;OnAttack"
 data "Icon" "PassiveFeature_Generic_Blood"
 data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasAllyWithinRange('SG_Incapacitated',2)"
-data "Boosts" "DealDamage(2d6, Bludgeoning)"
+data "Boosts" "DealDamage(1d6, Bludgeoning)"
 
 new entry "Passive_SuperiorHealth"
 type "PassiveData"
