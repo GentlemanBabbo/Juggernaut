@@ -39,6 +39,23 @@
                     <attribute id="UUID" type="guid" value="0364b1b3-dc18-4cc7-854b-a599ce671d5f"/>
                 </node>
                 <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2d6"/>
+		    <attribute id="Level2" type="LSString" value="2d6"/>
+		    <attribute id="Level3" type="LSString" value="2d6"/>
+		    <attribute id="Level4" type="LSString" value="2d6"/>
+		    <attribute id="Level5" type="LSString" value="3d6"/>
+		    <attribute id="Level6" type="LSString" value="3d6"/>
+		    <attribute id="Level7" type="LSString" value="3d6"/>
+		    <attribute id="Level8" type="LSString" value="3d6"/>
+                    <attribute id="Level9" type="LSString" value="3d6"/>
+                    <attribute id="Level10" type="LSString" value="4d6"/>
+                    <attribute id="Level11" type="LSString" value="4d6"/>
+                    <attribute id="Level12" type="LSString" value="4d6"/>
+                    <attribute id="Name" type="FixedString" value="JuggernautQuakingStrikeDamage"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="6fc0ae58-628b-4293-8fc8-80cde68a6751"/>
+                    <attribute id="UUID" type="guid" value="b867a037-b06d-47b9-b72c-694b6037b75a"/>
+                </node>
+                <node id="LevelMapSeries">
                     <attribute id="Level1" type="LSString" value="3d6"/>
 		    <attribute id="Level2" type="LSString" value="3d6"/>
 		    <attribute id="Level3" type="LSString" value="3d6"/>
