@@ -43,6 +43,13 @@ data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and
 data "TooltipUseCosts" "ReactionActionPoint:1"
 data "Boosts" "UnlockInterrupt(Interrupt_FightingStyle_UnyieldingStrength)"
 
+new entry "Passive_Magebreaker"
+type "PassiveData"
+data "DisplayName" "h596ff69a6d35461eaf66c47b4b0e0a7decg6;2"
+data "Description" "h9e0f8184ge5d7g4ef0gb8b4g20d65fc33cc4;2"
+data "DescriptionParams" "Distance(1.5)"
+data "Icon" "PassiveFeature_MageSlayer_Advantage"
+
 new entry "Passive_HeavyHanded"
 type "PassiveData"
 data "DisplayName" "hcb0ab787gede6g40e0g8a0ag2a84ce5d4649;2"
